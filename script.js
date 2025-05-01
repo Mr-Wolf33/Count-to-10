@@ -3,7 +3,7 @@ const choicesContainer = document.getElementById('choices');
 const resultContainer = document.getElementById('result');
 
 // Use any public image URL or replace with your own
-const imageURL = "https://drive.google.com/drive/folders/1RbqkAA255sCmdAFPj4Kufp93wHEPc3zu?usp=sharing";
+const imageURL = "https://drive.google.com/file/d/1nGIlG598zQCtwoyO0nBs6eXHDpm5Nc-I/view?usp=sharing";
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * (max + 1));
