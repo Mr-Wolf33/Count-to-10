@@ -3,7 +3,7 @@ const choicesContainer = document.getElementById('choices');
 const resultContainer = document.getElementById('result');
 
 // Use any public image URL or replace with your own
-const imageURL = "https://drive.google.com/file/d/1nGIlG598zQCtwoyO0nBs6eXHDpm5Nc-I/view?usp=sharing";
+const imageURL = "https://via.placeholder.com/80?text=Img";
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * (max + 1));
@@ -58,3 +58,4 @@ function startGame() {
 
 // Start the game on page load
 startGame();
+
